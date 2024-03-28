@@ -3,7 +3,7 @@
 - I’m a full-stack developer
 
 <p align=center>
-  <div align=center style="display:table;table-layout:fixed;width:100%;height:190px;box-sizing:border-box;border-spacing:10px;">
+  <div align=center style="display:table;table-layout:fixed;width:100%;height:190px;">
     <a title="My github stat" style=" display:table-cell;vertical-align:middle;">
       <img height=190 src="https://github-readme-stats.vercel.app/api?username=freitit&show_icons=true&theme=vue"/>
     </a>
